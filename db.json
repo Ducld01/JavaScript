@@ -1,0 +1,351 @@
+{
+  "products": [
+    {
+      "categoryId": "6",
+      "name": "Black Acid Wash",
+      "image": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/e504bbfe-3f24-4411-b0da-68a57f37cdcd/dunk-high-1985-black-acid-wash-release-date.jpg",
+      "detail": "Don't trip, don't worry—those colours are real. They've just received an acid-wash-like treatment on the black overlays.",
+      "price": "168.31",
+      "quantity": 0,
+      "status": 1,
+      "id": 15
+    },
+    {
+      "categoryId": "6",
+      "name": "Nike Air Force 1 GORE-TEX",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/adc7cecb-c02a-42c1-b2de-67ddc141295d/air-force-1-gore-tex-shoes-xkl3Ps.png",
+      "detail": "The radiance lives on in the Nike Air Force 1 GORE-TEX, the b-ball OG that puts a fresh spin on what you know best",
+      "price": "206.56",
+      "quantity": 0,
+      "status": 1,
+      "id": 16
+    },
+    {
+      "categoryId": "6",
+      "name": "Nike Air Force 1 '07 Premium",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/358b5550-fd69-4096-a83e-73ce86d0cf99/air-force-1-07-shoes-lwfkjL.png",
+      "detail": "Distinct: a Swoosh logo and heel crafted from richly textured plant material that comes from pineapple leaf fibre.Rare",
+      "price": "168.31",
+      "quantity": 0,
+      "status": 1,
+      "id": 17
+    },
+    {
+      "categoryId": "6",
+      "name": "Nike Air Force 1 Mid '07",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0447d3b3-28d3-4ba3-a6d6-deb0b21558af/air-force-1-mid-07-shoe-9S2mB4.png",
+      "detail": "The Air Force 1 Mid '07 is everything you know best: crisp overlays, bold accents and the perfect amount of flash to let you shine",
+      "price": "122.16",
+      "quantity": 0,
+      "status": 1,
+      "id": 18
+    },
+    {
+      "categoryId": "6",
+      "name": "Air Jordan 1 Mid SE",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3e143f49-7aaf-46e6-92f0-59937819bc89/air-jordan-1-mid-se-shoe-XPnQh3.png",
+      "detail": "The charismatic sneaker that broke the rules on court now sets the standard off the hardwood.",
+      "price": "154.69",
+      "quantity": 0,
+      "status": 1,
+      "id": 19
+    },
+    {
+      "categoryId": "6",
+      "name": "Nike Air Max 97",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1632439a-15ca-4213-842e-4e8b062a6c86/air-max-97-shoes-bfqJQG.png",
+      "detail": "Inspired by Japanese bullet trains, the Nike Air Max 97 lets you push your style full speed ahead",
+      "price": "219.75",
+      "quantity": 0,
+      "status": 1,
+      "id": 20
+    },
+    {
+      "categoryId": "6",
+      "name": "Nike Air Force 1 '07 PRM",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/275ac97f-b355-480e-987f-5f9ace7a0c36/air-force-1-07-prm-shoe-DPRVWV.png",
+      "detail": "The radiance lives on in the Nike Air Force 1 '07 Premium: The b-ball OG that adds a little bling to what you know best",
+      "price": "168.31",
+      "quantity": 0,
+      "status": 1,
+      "id": 21
+    },
+    {
+      "categoryId": "6",
+      "name": "Air Jordan 1 Mid",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/042d7f7d-93ad-4ce5-8480-f50d3b547984/air-jordan-1-mid-older-shoes-g5qTCp.png",
+      "detail": "The Air Jordan 1 Mid Shoe follows in the footsteps of greatness",
+      "price": "98.86",
+      "quantity": 0,
+      "status": 1,
+      "id": 22
+    },
+    {
+      "categoryId": "7",
+      "name": "Nike Brasilia",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1f1e6609-dca5-4bff-9c4a-b89ba787b3cb/brasilia-graphic-training-duffel-bag-pp3Swg.png",
+      "detail": "The Nike Brasilia Duffel Bag has a spacious main compartment and a separate zipped area at the bottom to separate shoes",
+      "price": "50.51",
+      "quantity": 0,
+      "status": 1,
+      "id": 23
+    },
+    {
+      "categoryId": "7",
+      "name": "Nike Sportswear Essentials",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/dc3143e3-938b-4204-8621-db0673676bea/sportswear-essentials-backpack-h89t4h.png",
+      "detail": "With its large laptop sleeve, phone holder and roomy main compartment",
+      "price": "89.63",
+      "quantity": 0,
+      "status": 1,
+      "id": 24
+    },
+    {
+      "categoryId": "7",
+      "name": "Giannis",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/114811c3-312c-4791-acc7-461a312ab081/giannis-backpack-WhBPJW.png",
+      "detail": "Put your gear on your back and go. The Giannis Backpack has easy-access zipped compartments for your everyday essentials",
+      "price": "101.06",
+      "quantity": 0,
+      "status": 1,
+      "id": 25
+    },
+    {
+      "categoryId": "7",
+      "name": "Nike Brasilia",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/58032618-9999-41f2-92f5-0fa7e3daf3c7/brasilia-training-duffel-bag-RcF1FP.png",
+      "detail": "The Nike Brasilia Duffel Bag has a spacious main compartment and specialised pockets to get you",
+      "price": "44.79",
+      "quantity": 0,
+      "status": 1,
+      "id": 26
+    },
+    {
+      "categoryId": "8",
+      "name": "Bucket Hat Nike",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/e256a65b-930c-479b-ba35-82fe697d26eb/bucket-hat-Jj8GT4.png",
+      "detail": "The Nike Bucket Hat tops off your look with subtly tie-dyed",
+      "price": "36.00",
+      "quantity": 0,
+      "status": 1,
+      "id": 27
+    },
+    {
+      "categoryId": "8",
+      "name": "Tie-Dye Bucket Hat",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/9efc9830-bcaa-430b-ba17-ff83ff3c3a84/sportswear-tie-dye-bucket-hat-glm763.png",
+      "detail": "Unstructured for a casual feel, the Nike Sportswear Bucket Hat is a go-to styling piece made from a soft and sturdy woven fabric.",
+      "price": "31.17",
+      "quantity": 0,
+      "status": 1,
+      "id": 28
+    },
+    {
+      "categoryId": "8",
+      "name": "Bucket Hat Nike Sportswear",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/8ed0d89b-b6f5-4b17-bd08-b38f778cc112/sportswear-bucket-hat-0dfdHv.png",
+      "detail": "The Nike Sportswear Bucket Hat helps rewrite your outfits with its retro design",
+      "price": "31.17",
+      "quantity": 0,
+      "status": 1,
+      "id": 29
+    },
+    {
+      "categoryId": "8",
+      "name": "Nike Dri-FIT AeroBill Featherlight",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/6623eaa2-c5c6-49ac-b5e6-1a9ea14077b0/dri-fit-aerobill-featherlight-perforated-running-cap-0sTv3T.png",
+      "detail": "Stay covered on your runs with the Nike Dri-FIT AeroBill Featherlight Cap",
+      "price": "26.77",
+      "quantity": 0,
+      "status": 1,
+      "id": 30
+    },
+    {
+      "categoryId": "9",
+      "name": "Jordan 23 Engineered",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ee50638f-1cb2-445d-8eff-57129fb2e2cd/jordan-23-engineered-washed-fleece-hoodie-28PPcV.png",
+      "detail": "23 Engineered remakes sportswear staples with tech-inspired details.",
+      "price": "150.29",
+      "quantity": 0,
+      "status": 1,
+      "id": 31
+    },
+    {
+      "categoryId": "9",
+      "name": "Men's French Terry Pullover Hoodie",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f46135f5-bbed-47ef-ac76-6b307d713da4/sportswear-french-terry-pullover-hoodie-RqBhx9.png",
+      "detail": "Made from a mid-weight French terry fleece, the Nike Sportswear Pullover Hoodie has a soft feel and heavy drape",
+      "price": "89.63",
+      "quantity": 0,
+      "status": 1,
+      "id": 32
+    },
+    {
+      "categoryId": "9",
+      "name": "Nike ACG Polartec® 'Wolf Tree'",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/6250729d-e166-4e5a-8d28-c1fb94491fa3/acg-polartec-wolf-tree-pullover-hoodie-BjNLhx.png",
+      "detail": "Suit up with the premium warmth of the Nike ACG Polartec® 'Wolf Tree' Hoodie.",
+      "price": "130.07",
+      "quantity": 0,
+      "status": 1,
+      "id": 33
+    },
+    {
+      "categoryId": "10",
+      "name": "Nike Everyday Cushioned",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/eb447163-af9b-4618-8203-52bd0239ad8e/everyday-cushioned-training-no-show-socks-R1C77V.png",
+      "detail": "Power through your workout with the Nike Everyday Cushioned Socks",
+      "price": "15.77",
+      "quantity": 0,
+      "status": 1,
+      "id": 34
+    }
+  ],
+  "categories": [
+    {
+      "name": "Shoes",
+      "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=80",
+      "id": 6
+    },
+    {
+      "name": "Bags and Backbag",
+      "image": "https://images.unsplash.com/photo-1511405946472-a37e3b5ccd47?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGJhZyUyMGFuZCUyMGJhY2tiYWd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "id": 7
+    },
+    {
+      "name": "Caps",
+      "image": "https://images.unsplash.com/photo-1611179196291-e3d87435d123?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2FwfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "id": 8
+    },
+    {
+      "name": "Hoodies & Sweatshirts",
+      "image": "https://images.unsplash.com/photo-1609873814058-a8928924184a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhvb2RpZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "id": 9
+    },
+    {
+      "name": "Shocks",
+      "image": "https://images.unsplash.com/photo-1521093470119-a3acdc43374a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2hvY2tzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "id": 10
+    }
+  ],
+  "order": [
+    {
+      "productID": [
+        5,
+        6
+      ],
+      "Quantity": [
+        "2",
+        "2"
+      ],
+      "dateOder": "2021-08-10T21:52:19.746Z",
+      "phone": "0346636633",
+      "address": "Cau Giay Ha Noi Viet Nam",
+      "id": 4
+    },
+    {
+      "productID": [
+        15,
+        17
+      ],
+      "Quantity": [
+        "2",
+        "2"
+      ],
+      "dateOder": "2021-08-11T13:48:05.157Z",
+      "phone": "0346636633",
+      "address": "60 duong khue",
+      "id": 8
+    },
+    {
+      "productID": [
+        16,
+        18
+      ],
+      "Quantity": [
+        "3",
+        "6"
+      ],
+      "dateOder": "2021-08-11T13:53:13.726Z",
+      "phone": "0346636633",
+      "address": "60 dương khue mai dich cau giay",
+      "id": 9
+    },
+    {
+      "productID": [
+        15
+      ],
+      "Quantity": [
+        "3"
+      ],
+      "dateOder": "2021-08-12T08:28:13.677Z",
+      "phone": "0346636633",
+      "address": "duong khuee",
+      "id": 12
+    },
+    {
+      "productID": [
+        16
+      ],
+      "Quantity": [
+        "2"
+      ],
+      "dateOder": "2021-08-12T08:40:23.982Z",
+      "name": "demo11s",
+      "phone": "03466366331",
+      "address": "duong khueea",
+      "id": 15
+    },
+    {
+      "productID": [
+        18
+      ],
+      "Quantity": [
+        "4"
+      ],
+      "dateOder": "2021-08-12T08:42:08.670Z",
+      "name": "demo11á",
+      "phone": "113165153416",
+      "address": "duong khueesad",
+      "id": 16
+    },
+    {
+      "productID": [
+        15
+      ],
+      "Quantity": [
+        "3"
+      ],
+      "dateOder": "2021-08-14T07:20:20.632Z",
+      "phone": "0346636639",
+      "address": "duong khueesa",
+      "id": 17
+    },
+    {
+      "productID": [
+        15
+      ],
+      "Quantity": [
+        "2"
+      ],
+      "dateOder": "2021-08-14T07:22:23.744Z",
+      "phone": "0346636632",
+      "address": "duong khueea",
+      "id": 18
+    },
+    {
+      "productID": [
+        23,
+        15
+      ],
+      "Quantity": [
+        "2",
+        "2"
+      ],
+      "dateOder": "2021-08-14T07:25:13.088Z",
+      "phone": "0346636631",
+      "address": "duong khueea",
+      "id": 19
+    }
+  ]
+}
